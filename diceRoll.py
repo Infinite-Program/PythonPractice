@@ -1,4 +1,4 @@
-#Program created by Jacob Shkeir
+#Program created by Infinite-Program
 #Dice Roll Game project
 
 def accountMechanism():
